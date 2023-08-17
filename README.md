@@ -1,12 +1,12 @@
 Hi 👋 My name is Michael Epelboim
 =================================
 
-Front End Developer
+Full Stack Developer
 -------------------
 
 After co-founding an Ed-Tech startup, I realized I needed to learn to code. My initial steps were online tutorials, then I delved deeper into a coding BootCamp. After graduating, I began freelancing, predominantly within the Chinese WeChat mini-programs ecosystem and on Ruby on Rails projects. Eventually, I started teaching coding. Later, I widened my skill set to include JavaScript-based technologies. This encompassed front-end frameworks such as React (a library, not a framework), Angular, and Next.js, as well as back-end technologies including Node, Express, and Koa. I also gained knowledge in handling both SQL and NoSQL databases. My journey has provided me with a diverse toolkit ready to tackle various programming challenges. The journey began in 2019 and continues until this day
 
-* 🌍  I'm currently based in Barcelona but open to relocating to Amsterdam or Berlin
+* 🌍  I'm currently based in Barcelona but open to relocating within Europe
 * ✉️  You can contact me at [mepelboim@outlook.com](mailto:mepelboim@outlook.com)
 * 🚀  I'm currently working on [YouCoder](http://youcoder.io)
 * 🧠  I'm learning how to use Supabase
