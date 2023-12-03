@@ -53,9 +53,7 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 ### Other
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-
-
+<a href="https://open.weixin.qq.com/?lang=en" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/371_Wechat_logo-1024.png" width="36" height="36" alt="Figma" /></a>
 
 ### Socials
 
