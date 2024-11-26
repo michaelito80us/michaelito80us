@@ -4,12 +4,13 @@ Hi 👋 My name is Michael Epelboim
 Full Stack Developer
 -------------------
 
-After co-founding an Ed-Tech startup, I realized I needed to learn to code. My initial steps were online tutorials, then I delved deeper into a coding BootCamp. After graduating, I began freelancing, predominantly within the Chinese WeChat mini-programs ecosystem and on Ruby on Rails projects. Eventually, I started teaching coding. Later, I widened my skill set to include JavaScript-based technologies. This encompassed front-end frameworks such as React (a library, not a framework), Angular, and Next.js, as well as back-end technologies including Node, Express, and Koa. I also gained knowledge in handling both SQL and NoSQL databases. My journey has provided me with a diverse toolkit ready to tackle various programming challenges. The journey began in 2019 and continues until this day
+After co-founding an Ed-Tech startup, I realized I needed to learn to code. My initial steps were online tutorials, then I delved deeper into a coding BootCamp. After graduating, I began freelancing, predominantly within the Chinese WeChat mini-programs ecosystem and on Ruby on Rails projects. Eventually, I started teaching coding. Later, I widened my skill set to include JavaScript-based technologies. This encompassed front-end frameworks such as React (a library, not a framework), Angular, and Next.js, as well as back-end technologies including Node and Express. I also gained knowledge in handling both SQL and NoSQL databases. Lately I have been involved with AI, creating tools and platforms for others to implement AI solutions in their projects. My journey has provided me with a diverse toolkit ready to tackle various programming challenges. The journey began in 2019 and continues until this day.
 
-* 🌍  I'm currently based in Barcelona but open to relocating within Europe
+* 🌍  I'm currently based in Barcelona and I am open to collaborating with others on interestig projects
 * ✉️  You can contact me at [mepelboim@outlook.com](mailto:mepelboim@outlook.com)
-* 🚀  I'm currently working on [YouCoder](http://youcoder.io)
-* 🧠  I'm learning how to use Supabase and serverless functions
+* 🚀  Besides my full-time job at [Tromero AI](https://www.tromero.ai), I'm currently working on [UI Colors](http://www.uicolors.dev)
+* 👨‍💻  My secondary GitHub account - work account: [Michael](https://github.com/mepelboim-tromero)
+* 🧠  I'm currently learning how to create and implement AI agents and workflows in my applications
 
 ## Skills
 
@@ -44,11 +45,17 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/npm?viewbox=auto" height="36" alt="NPM" /></a>
 
 ### Testing
 <a href="https://jestjs.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="36" height="36" alt="Jest" /></a>
 <a href="https://www.cypress.io/"><img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="36" height="36" alt="Cypress" /></a>
 <a href="https://testing-library.com/"><img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="Testing Library" /></a>
+
+### AI
+<a href="https://wwww.openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai?viewbox=auto" height="36" alt="OpenAi" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface?viewbox=auto" height="36" alt="HuggingFace" /></a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain?viewbox=auto" height="36" alt="LangChain" /></a>
 
 ### Other
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
@@ -63,6 +70,10 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 
 ### My GitHub Stats
 
+#### michaelito80us
 <a href="http://www.github.com/michaelito80us"><img src="https://github-readme-stats.vercel.app/api?username=michaelito80us&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="michaelito80us's GitHub stats" /></a>
 
-<sub><sup>Last update: Dec 3, 2023 </sub></sup>
+#### mepelboim-tromero
+<a href="http://www.github.com/mepelboim-tromero"><img src="https://github-readme-stats-michaelito80us-projects.vercel.app/api?username=mepelboim-tromero&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mepelboim-tromero's GitHub stats" /></a>
+
+<sub><sup>Last update: Nov 26, 2024 </sub></sup>
