@@ -8,7 +8,7 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 
 * 🌍  I'm currently based in Barcelona and I am open to collaborating with others on interestig projects
 * ✉️  You can contact me at [mepelboim@outlook.com](mailto:mepelboim@outlook.com)
-* 🚀  Besides my full-time job at [Tromero AI](https://www.tromero.ai), I'm currently working on [UI Colors](http://www.uicolors.dev)
+* 🚀  Besides my full-time job at [Tromero AI](https://www.tromero.ai), I'm currently working on [UI Colors](http://www.uicolors.dev), [Storybook AI](https://ai-storybook-git-new-landingpage-michaelito80us-projects.vercel.app/)
 * 👨‍💻  My secondary GitHub account - work account: [Michael](https://github.com/mepelboim-tromero)
 * 🧠  I'm currently learning how to create and implement AI agents and workflows in my applications
 
