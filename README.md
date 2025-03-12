@@ -8,7 +8,7 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 
 * 🌍  I'm currently based in Barcelona and I am open to collaborating with others on interestig projects
 * ✉️  You can contact me at [mepelboim@outlook.com](mailto:mepelboim@outlook.com)
-* 🚀  Besides my full-time job at [Tromero AI](https://www.tromero.ai), I'm currently working on [UI Colors](http://www.uicolors.dev), [Storybook AI](https://ai-storybook-git-new-landingpage-michaelito80us-projects.vercel.app/)
+* 🚀  I'm currently working on [UI Colors](http://www.uicolors.dev), [Storybook AI](https://ai-storybook-git-new-landingpage-michaelito80us-projects.vercel.app/), and some other interesting personal projects (not ready to share)
 * 👨‍💻  My secondary GitHub account - work account: [Michael](https://github.com/mepelboim-tromero)
 * 🧠  I'm currently learning how to create and implement AI agents and workflows in my applications
 
@@ -76,4 +76,4 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 #### mepelboim-tromero
 <a href="http://www.github.com/mepelboim-tromero"><img src="https://github-readme-stats-michaelito80us-projects.vercel.app/api?username=mepelboim-tromero&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mepelboim-tromero's GitHub stats" /></a>
 
-<sub><sup>Last update: Nov 26, 2024 </sub></sup>
+<sub><sup>Last update: March 12, 2025 </sub></sup>
