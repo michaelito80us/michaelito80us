@@ -6,10 +6,10 @@ Full Stack Developer
 
 After co-founding an Ed-Tech startup, I realized I needed to learn to code. My initial steps were online tutorials, then I delved deeper into a coding BootCamp. After graduating, I began freelancing, predominantly within the Chinese WeChat mini-programs ecosystem, Ruby on Rails, and React projects. Eventually, I started teaching coding. Later, I widened my skill set to include other JavaScript and Typescript-based technologies. This encompassed front-end frameworks such as Angular and Next.js, as well as back-end technologies including Node and Express. I also gained deeper knowledge in handling both SQL and NoSQL databases. Lately, I have been involved with AI, creating tools and platforms for others to implement AI solutions in their projects and incorporating Agents into m projects. My journey has provided me with a diverse toolkit ready to tackle various programming challenges. The journey began in 2019 and continues until this day.
 
-* 🌍  I'm currently based in Barcelona and I am open to collaborating with others on interestig projects
+* 🌍  I'm currently based in Barcelona and I am open to collaborating with others on interestig side projects
+* 🧑🏻‍💻  I spend my days making GenAI cybersecurity tools easy to implement, monitor and manage at [NeuralTrust](https://neuraltrust.ai/)
 * ✉️  You can contact me at [mepelboim@outlook.com](mailto:mepelboim@outlook.com)
-* 🚀  I'm currently working on [UI Colors](http://www.uicolors.dev), [Storybook AI](https://ai-storybook-git-new-landingpage-michaelito80us-projects.vercel.app/), and some other interesting personal projects (not ready to share)
-* 👨‍💻  My secondary GitHub account - work account: [Michael](https://github.com/mepelboim-tromero)
+* 🚀  I'm currently working on 2 hobby projects [UI Colors](http://www.uicolors.dev), [Storybook AI](https://ai-storybook-git-new-landingpage-michaelito80us-projects.vercel.app/), and some other interesting personal projects (not ready to share)
 * 🧠  I'm currently learning how to create and implement AI agents and workflows in my applications
 
 ## Skills
@@ -51,11 +51,13 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 <a href="https://jestjs.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" width="36" height="36" alt="Jest" /></a>
 <a href="https://www.cypress.io/"><img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="36" height="36" alt="Cypress" /></a>
 <a href="https://testing-library.com/"><img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="Testing Library" /></a>
+<a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg"  width="36" height="36" alt="Playwright" /></a>
 
 ### AI
 <a href="https://wwww.openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai?viewbox=auto" height="36" alt="OpenAi" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface?viewbox=auto" height="36" alt="HuggingFace" /></a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain?viewbox=auto" height="36" alt="LangChain" /></a>
+<a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cursor?viewbox=auto" height="36" alt="Cursor" /></a>
 
 ### Other
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
@@ -76,4 +78,4 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 #### mepelboim-tromero
 <a href="http://www.github.com/mepelboim-tromero"><img src="https://github-readme-stats-michaelito80us-projects.vercel.app/api?username=mepelboim-tromero&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mepelboim-tromero's GitHub stats" /></a>
 
-<sub><sup>Last update: March 12, 2025 </sub></sup>
+<sub><sup>Last update: June 23, 2025 </sub></sup>
