@@ -9,8 +9,8 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 * 🌍  I'm currently based in Barcelona and I am open to collaborating with others on interestig side projects
 * 🧑🏻‍💻  I spend my days making GenAI cybersecurity tools easy to implement, monitor and manage at [NeuralTrust](https://neuraltrust.ai/)
 * ✉️  You can contact me at [mepelboim@outlook.com](mailto:mepelboim@outlook.com)
-* 🚀  I'm currently working on 2 hobby projects [UI Colors](http://www.uicolors.dev), [Storybook AI](https://ai-storybook-git-new-landingpage-michaelito80us-projects.vercel.app/), and some other interesting personal projects (not ready to share)
-* 🧠  I'm currently learning how to create and implement AI agents and workflows in my applications
+* 🚀  I'm currently working on 2 hobby projects [UI Colors](http://www.uicolors.dev), and codename: UMP, a tournament managment platform, as well as some other interesting personal projects (not ready to share)
+* 🧠  I'm currently learning how to create, train and implement multi agentic workflows
 
 ## Skills
 
