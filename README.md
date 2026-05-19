@@ -54,7 +54,7 @@ After co-founding an Ed-Tech startup, I realized I needed to learn to code. My i
 <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg"  width="36" height="36" alt="Playwright" /></a>
 
 ### AI
-<a href="https://wwww.openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai?viewbox=auto" height="36" alt="OpenAi" /></a>
+<a href="https://wwww.openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude?viewbox=auto" height="36" alt="Claude" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface?viewbox=auto" height="36" alt="HuggingFace" /></a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain?viewbox=auto" height="36" alt="LangChain" /></a>
 <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://www.cursor.com/_next/static/media/placeholder-logo.737626f1.webp" height="36" alt="Cursor" /></a>
